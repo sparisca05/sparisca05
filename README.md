@@ -1,11 +1,10 @@
 - 👋 Hi, I’m Simon Parisca (@sparisca05)
-- 👀 I’m interested in web and app development in front and back end.
-  With knowledge in JavaSript, ReactJS | Node.js. Java | SpringBoot, Maven/Gradle. Python | Django. API rest and SQL language.
+- 👀 I’m interested in Web and App Development, Data Analysis and AI-Driven solutions.
+  With knowledge in ReactJS | SpringBoot | Python | Django | FastAPI | API rest and SQL.
   Also a cibersecurity enthusiast.
-- 🌱 I’m currently learning ReactJS and ReactNative.
+- 🌱 I enjoy developing AI Agent Solutions.
 - 📫 How to reach me:
-  LinkedIn: https://www.linkedin.com/in/sim%C3%B3n-parisca-12ba65298?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
-- ⚡ Fun fact: ...
+  LinkedIn: https://www.linkedin.com/in/sim%C3%B3n-parisca-12ba65298
 
 <!---
 sparisca05/sparisca05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
